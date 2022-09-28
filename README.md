@@ -14,3 +14,9 @@ Notebook that documents all the planning, writing, testing, and debugging of the
 Overview of all the key algorithms, sensors (computer vision, color sensor), autonomous, and player-controlled code used during the season.
 
 * Won Freight Frenzy Control Award 3rd Place
+
+# Notable Engineering Programming Algorithms
+
+* Finite State Machine (FNS)
+* OpenCV (for computer vision/object detection)
+* Odometry
