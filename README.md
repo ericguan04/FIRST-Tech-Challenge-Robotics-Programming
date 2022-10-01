@@ -22,6 +22,6 @@ Finite State Machine (FNS)
 * Utilized enumerator (enum) data type and switch-case to store constants that would be used as "states" for the robot to shift between
 
 OpenCV (for computer vision/object detection)
-* Code found in Autonomous Testing
+* Code found in Autonomous Testing document
 * Implemented OpenCV library into software for real time computer vision
 * Robot autonomously chooses a path to take depending on the color detected by the camera on the robot
