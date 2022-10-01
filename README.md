@@ -7,7 +7,7 @@ Team Role: Programming Leader
 
 Notebook that documents all the planning, writing, testing, and debugging of the code used throughout the season.
 
-* Includes documentation of Blocks and Java (Android Studio) programming
+* Includes documentation of Blocks and Java (Android Studio IDE) programming
 
 # FTC Control Award
 
