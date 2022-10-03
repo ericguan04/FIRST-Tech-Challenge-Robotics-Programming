@@ -26,4 +26,4 @@ Finite State Machine (FNS)
 OpenCV (for computer vision/object detection)
 * Code found in Autonomous Testing document
 * Implemented OpenCV library into software for real time computer vision
-* Robot autonomously chooses a path to take depending on the color detected by the camera on the robot
+* Robot autonomously chooses a path to take depending on the color detected and position of object on the screen by the camera on the robot
