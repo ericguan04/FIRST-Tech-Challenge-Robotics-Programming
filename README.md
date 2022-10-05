@@ -22,6 +22,7 @@ Overview of all the key algorithms, sensors (computer vision, color sensor), aut
 Finite State Machine (FNS)
 * Code found in Official Tele-Op and Finite State Machine Testing documents
 * Utilized enumerator (enum) data type and switch-case to store constants that would be used as "states" for the robot to shift between
+* For FTC Robotics, FNS can be used to allow automation of systems while retaining control over the movement of the robot
 
 OpenCV (for computer vision/object detection)
 * Code found in Autonomous Testing document
