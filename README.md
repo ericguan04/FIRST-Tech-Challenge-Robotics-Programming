@@ -1,5 +1,5 @@
 # FIRST-Tech-Challenge-Robotics-Programming
-Documentation of the code I have contributed for Queens Metropolitan High School Robotics Team (#14212) for the FIRST Tech Challenge 2021-2022 Freight Frenzy Season.
+Documentation of my contributions to the Queens Metropolitan High School FIRST Robotics Team (#14212)
 
 Team Role: Programming Leader
 
