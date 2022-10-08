@@ -1,9 +1,9 @@
 # FIRST-Tech-Challenge-Robotics-Programming
 Documentation of my contributions to the Queens Metropolitan High School FIRST Robotics Team (#14212)
 
-Team Role: Programming Leader
-
-Current Role: Alumni Team Mentor
+2020-2021: Programming Team Member
+2021-2022: Programming Leader
+2022-2023: Alumni Team Mentor
 
 # Programming Engineering Notebook
 
