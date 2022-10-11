@@ -1,3 +1,6 @@
+//Utilizes enums and switch cases (Finite State Machine) to allow the arm slider to move to set heights
+//automatically while maintaining control over the robot
+
 switch (liftState)
 {
    case LIFT_START:
