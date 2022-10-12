@@ -1,4 +1,4 @@
-//Utilizes enums and switch cases (Finite State Machine) to allow the arm slider to move to set heights
+//Utilizes enums and switch cases (Finite State Machine) to allow the intake to take-in and expell objets
 //automatically while maintaining control over the robot
 
 switch (intakeState)
