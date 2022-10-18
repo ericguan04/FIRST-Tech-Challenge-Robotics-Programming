@@ -1,5 +1,5 @@
 # FIRST-Tech-Challenge-Robotics-Programming
-Documentation of my contributions to the Queens Metropolitan High School FIRST Robotics Team (#14212)
+Documentation of my contributions to the Queens Metropolitan High School FIRST Robotics Team (#14212). The purpose of this repository is for both members of the team and I to reference and learn/relearn.
 
 2020-2021: Programming Team Member (Blocks Programming)
 
