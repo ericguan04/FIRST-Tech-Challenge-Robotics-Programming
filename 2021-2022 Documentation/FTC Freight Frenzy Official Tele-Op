@@ -59,8 +59,6 @@ public class Freight_Frenzy_Official_TeleOp extends OpMode { //for toggling
     //intake motor
     public DcMotor intake;
 
-    public DcMotor Lift;
-
     //mecanum wheels
     public DcMotor frontLeft;
     public DcMotor backLeft;
@@ -100,7 +98,6 @@ public class Freight_Frenzy_Official_TeleOp extends OpMode { //for toggling
         Bucket = hardwareMap.servo.get("Bucket");
         intake = hardwareMap.dcMotor.get("intake");
         cam = hardwareMap.servo.get("cam");
-        Lift = hardwareMap.dcMotor.get("Lift");
 
         frontRight.setDirection(DcMotorSimple.Direction.REVERSE);
         backRight.setDirection(DcMotorSimple.Direction.REVERSE);
@@ -301,16 +298,7 @@ public class Freight_Frenzy_Official_TeleOp extends OpMode { //for toggling
         default:
             driveState = DriveState.DRIVE_FAST;
     }
-    {
-                if(gamepad2.left_bumper)
-                {
-                    Lift.setPower(1);
-                }
-                else
-                {
-                    Lift.setPower(0);
-                }
-        }
+    
     }
 }
 
