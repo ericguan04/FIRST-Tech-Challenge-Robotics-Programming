@@ -235,7 +235,8 @@ public class Freight_Frenzy_Blue_Warehouse_Side_Autonomous extends LinearOpMode
             telemetry.update();
         }
     }
-
+    
+    //METHOD THAT CONTROLS THE DRIVETRAIN
     public void encoderDrive(DcMotor frontLeft, DcMotor backLeft, DcMotor frontRight, DcMotor backRight, double speed, double frontLeftInches, double backLeftInches, double frontRightInches, double backRightInches)
     {
         int newFrontLeftTarget;
@@ -283,6 +284,7 @@ public class Freight_Frenzy_Blue_Warehouse_Side_Autonomous extends LinearOpMode
         }
     }
 
+    //METHOD THAT CONTROLS THE ARM
     public void armMovement (DcMotor armMotor, double armSpeed, double armInches)
     {
         armMotor.setTargetPosition( (int) (armInches * COUNTS_PER_INCH_ARM) );
