@@ -112,6 +112,7 @@ switch (liftState)
    default:
        liftState = LiftState.LIFT_START;
 }
+
 //safety button to reset the states
 if (gamepad2.x && liftState != LiftState.LIFT_START)
 {
