@@ -36,7 +36,7 @@ public class StateMachine_Testing extends OpMode
 
     LiftState liftState = LiftState.LIFT_START;
 
-    //arm motor
+    //ARM MOTOR
     public DcMotor armMotor;
 
     //mecanum wheels
