@@ -196,7 +196,7 @@ public class Power_Play_TeleOp extends OpMode {
         double frontRightPower = (y - x - rx) / denominator;
         double backRightPower = (y + x - rx) / denominator;
 
-        //divide by value greater than 1 to make it slower
+        //DIVIDE by value greater than 1 to make it slower
         frontLeft.setPower(-frontLeftPower);
         backLeft.setPower(-backLeftPower);
         frontRight.setPower(-frontRightPower);
