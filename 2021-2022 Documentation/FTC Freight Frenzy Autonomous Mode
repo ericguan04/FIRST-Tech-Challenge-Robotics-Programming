@@ -46,7 +46,7 @@ public class Freight_Frenzy_Blue_Warehouse_Side_Autonomous extends LinearOpMode
     private double lowerRuntime = 0;
     private double upperRuntime = 0;
 
-    // Green Range                                      Y      Cr     Cb
+    // GREEN RANGE                                      Y      Cr     Cb
     public static Scalar scalarLowerYCrCb = new Scalar(  0.0, 0.0, 0.0);
     public static Scalar scalarUpperYCrCb = new Scalar(255.0, 120.0, 120.0);
 
