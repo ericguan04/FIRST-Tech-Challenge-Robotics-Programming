@@ -59,7 +59,7 @@ switch (intakeState)
    default:
        intakeState = IntakeState.INTAKE_START;
 }
-//safety button to reset the states
+//Safety button to reset the states
 if (gamepad1.x && liftState != LiftState.LIFT_START)
 {
    intake.setPower(0.0);
