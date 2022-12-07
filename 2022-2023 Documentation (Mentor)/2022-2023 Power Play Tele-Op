@@ -7,7 +7,7 @@ import com.qualcomm.robotcore.hardware.Servo;
 
 public class Power_Play_TeleOp extends OpMode {
 
-    //SLIDER ENCODER CALCULATIONS
+    //SLIDER ENCODER CALCULATIONs
     static final double COUNTS_PER_MOTOR_REV = 751.8;        // TICKS PER REVOLUTION FOR GOBILDA 5203 223RPM MOTOR
     static final double DRIVE_GEAR_REDUCTION = 1.0;          // This is < 1.0 if geared UP
     static final double PULLY_HUB_DIAMETER_INCHES = 1.375;   // For figuring circumference
