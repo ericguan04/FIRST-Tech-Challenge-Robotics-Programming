@@ -187,7 +187,7 @@ public class StateMachine_Testing extends OpMode
             default:
                 liftState = LiftState.LIFT_START;
         }
-        //SAFETY button to reset the states
+        //SAFETY BUTTON TO reset the states
         if (gamepad2.x && liftState != LiftState.LIFT_START)
         {
             Bucket.setPosition(DUMP_IDLE);
