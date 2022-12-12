@@ -9,7 +9,7 @@ import com.qualcomm.robotcore.util.ElapsedTime;
 
 @TeleOp(name="Freight_Frenzy_Official_TeleOp")
 public class Freight_Frenzy_Official_TeleOp extends OpMode { //for toggling
-    //boolean onOff = false;
+    //boolean onOff = true;
 
     //arm encoder calculations
     static final double COUNTS_PER_MOTOR_REV = 751.8;    // goBilda 5203 223rpm ticks per revolution
