@@ -214,7 +214,7 @@ public class StateMachine_Testing extends OpMode
         double frontRightPower = (y - x - rx) / denominator;
         double backRightPower = (y + x - rx) / denominator;
 
-        //divide by value greater than 1 to make it slower
+        //divide by value greater than 1 to make it slower (ex. 2 to half the speed)
         frontLeft.setPower(-frontLeftPower/1);
         backLeft.setPower(-backLeftPower/1);
         frontRight.setPower(-frontRightPower/1);
