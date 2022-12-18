@@ -15,7 +15,7 @@ public class Power_Play_TeleOp extends OpMode {
                                           (PULLY_HUB_DIAMETER_INCHES * 3.1415);
     static final double ARM_SPEED = 1;
     static final double FIRST_LEVEL_INCHES  = 4.2096;         // HEIGHT FOR FIRST LEVEL IN INCHES
-    static final double SECOND_LEVEL_INCHES = 9.2341;        // HEIGHT FOR SECOND LEVEL IN INCHES
+    static final double SECOND_LEVEL_INCHES = 9.2341;         // HEIGHT FOR SECOND LEVEL IN INCHES
     static final double THIRD_LEVEL_INCHES  = 15.2090;        // HEIGHT FOR THIRD LEVEL IN INCHES
 
     //CALCULATED NUMBER OF TICKS USED TO MOVE THE SLIDE 'X' INCHES
