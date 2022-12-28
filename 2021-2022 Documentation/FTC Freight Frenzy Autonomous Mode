@@ -57,9 +57,9 @@ public class Freight_Frenzy_Blue_Warehouse_Side_Autonomous extends LinearOpMode
         DcMotor frontLeft = hardwareMap.dcMotor.get("frontLeft");
         DcMotor backLeft = hardwareMap.dcMotor.get("backLeft");
         DcMotor frontRight = hardwareMap.dcMotor.get("frontRight");
-        DcMotor backRight = hardwareMap.dcMotor.get("backRight");
-        DcMotor armMotor = hardwareMap.dcMotor.get("armMotor");
-        Servo Bucket = hardwareMap.servo.get("Bucket");
+        DcMotor backRight  = hardwareMap.dcMotor.get("backRight");
+        DcMotor armMotor   = hardwareMap.dcMotor.get("armMotor");
+        Servo Bucket       = hardwareMap.servo.get("Bucket");
 
         frontLeft.setDirection(DcMotorSimple.Direction.REVERSE);
         backLeft.setDirection(DcMotorSimple.Direction.REVERSE);
