@@ -32,7 +32,7 @@ public class Freight_Frenzy_Blue_Warehouse_Side_Autonomous extends LinearOpMode
     static final double     PAUSE                       = 0.0;
 
     private OpenCvCamera webcam;
-    private ContourPipeline pipeline ;
+    private ContourPipeline pipeline;
 
     private double crThreshHigh = 150;
     private double crThreshLow = 120;
