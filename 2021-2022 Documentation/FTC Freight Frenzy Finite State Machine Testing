@@ -13,7 +13,7 @@ import com.qualcomm.robotcore.util.ElapsedTime;
 public class StateMachine_Testing extends OpMode
 {
     //ARM ENCODER CALCULATIONS
-    static final double     COUNTS_PER_MOTOR_REV        =  751.8 ;    // goBilda 5203 223rpm ticks per revolution
+    static final double     COUNTS_PER_MOTOR_REV        = 751.8 ;    // goBilda 5203 223rpm ticks per revolution
     static final double     DRIVE_GEAR_REDUCTION        = 1.0 ;      // This is < 1.0 if geared UP
     static final double     PULLY_HUB_DIAMETER_INCHES   = 1.375 ;    // For figuring circumference
     static final double     COUNTS_PER_INCH             = (COUNTS_PER_MOTOR_REV * DRIVE_GEAR_REDUCTION) /
