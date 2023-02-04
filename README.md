@@ -17,6 +17,8 @@ Notebook that documents all the planning, writing, testing, and debugging of the
 
 List of Team Awards won during the FIRST Robotics seasons I competed in (2020 and 2021 Seasons)
 
+[Link for more information](https://ftc-events.firstinspires.org/team/14212)
+
 * Inspire Award (2021)
 * Control Award 3rd Place (2021)
 * Think Award 2nd Place (2021)
