@@ -9,17 +9,23 @@ Documentation of my contributions to the Queens Metropolitan High School FIRST R
 
 # Programming Engineering Notebook
 
-Notebook that documents all the planning, writing, testing, and debugging of the code used throughout the season.
+Notebook that documents all the planning, writing, testing, and debugging of the code used throughout my season.
 
 * Includes documentation of Blocks and Java (Android Studio IDE) programming
 
-# FTC Control Award
+# Team Awards Won
 
-Overview of all the key algorithms, sensors (computer vision, color sensor), autonomous, and player-controlled code used during the season
+List of Team Awards won during the FIRST Robotics seasons I competed in (2020 and 2021 Seasons)
 
-* Won Freight Frenzy Control Award 3rd Place
+* Inspire Award (2021)
+* Control Award 3rd Place (2021)
+* Think Award 2nd Place (2021)
+* Connect Award 2nd Place (2020), 3rd Place (2021)
+* Innovate Award 3rd Place (2020), 2nd Place (2021)
+* Motivate Award 2nd Place (2021)
+* Design Award 3rd Place (2020)
 
-# Notable Engineering Programming Algorithms / Concepts Used
+# Notable Robotics Programming Algorithms / Concepts Used
 
 Finite State Machine (FNS)
 * Code found in Official Tele-Op and Finite State Machine Testing documents
