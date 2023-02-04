@@ -39,7 +39,7 @@ public class Power_Play_TeleOp extends OpMode {
     public DcMotor backRight;
 
     //DECLARE MOTORS AND SERVOS FOR SLIDE
-    public DcMotor armMotor;          // MOTOR FOR THE SLIDE
+    public DcMotor armMotor;          //  MOTOR FOR THE SLIDE
     public Servo claw;                // SERVO FOR THE CLAW
 
     final double CLAW_OPEN = 0.0;     // SERVO POSITION TO OPEN CLAW
