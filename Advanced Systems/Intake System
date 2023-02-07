@@ -8,7 +8,7 @@ switch (intakeState)
        if(gamepad1.a)
        {
            intake.setPower(1.0);
-           intakePauser.reset( );
+           intakePauser.reset();
            intakeState = IntakeState.INTAKE_PAUSE1;
        }
 
