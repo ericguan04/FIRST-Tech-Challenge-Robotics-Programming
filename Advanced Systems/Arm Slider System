@@ -2,7 +2,7 @@
 //automatically while maintaining control over the robot
 //State Diagram attatched later
 
-switch (liftState )
+switch (liftState)
 {
    case LIFT_START:
        if(gamepad2.a)
