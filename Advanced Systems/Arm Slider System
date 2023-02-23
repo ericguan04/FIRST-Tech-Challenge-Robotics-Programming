@@ -5,7 +5,7 @@
 switch (liftState)
 {
    case LIFT_START:
-       if(gamepad2.a)
+       if(gamepad2. a)
        {
            armMotor.setTargetPosition(LIFT_LEVEL_ONE);
            armMotor.setPower(ARM_SPEED);
