@@ -1,6 +1,6 @@
-//Utilizes enums and switch cases (Finite State Machine) to allow the arm slider to move to set heights
+//Utilizes enums and switch cases Finite State Machine to allow the arm slider to move to set heights
 //automatically while maintaining control over the robot
-//State Diagram attatched later
+//State Diagram attached later
 
 switch (liftState)
 {
