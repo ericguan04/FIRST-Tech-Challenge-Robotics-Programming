@@ -25,7 +25,7 @@ List of Team Awards won during the FIRST Robotics seasons (2020 and 2021 Seasons
 * Connect Award 2nd Place (2020), 3rd Place (2021)
 * Innovate Award 3rd Place (2020), 2nd Place (2021)
 * Motivate Award 2nd Place (2021)
-* Design Award 3rd Place (2020) 
+* Design Award 3rd Place (2020)
 
 ## Notable Robotics Programming Algorithms / Concepts Contributed
 
