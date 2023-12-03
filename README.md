@@ -5,7 +5,7 @@ Documentation of my contributions to the Queens Metropolitan High School FIRST R
 
 2021-2022: Programming Leader (Java with Android Studio)
 
-2022-2023: Alumni Team Mentor (Java with Android Studio)
+2022-2023: Alumni Team Mentor (Java with Android Studio) 
 
 ## Programming Engineering Notebook
 
